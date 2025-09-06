@@ -1,0 +1,14 @@
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\bin\Debug\net8.0\FilterEmployees.exe
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\bin\Debug\net8.0\FilterEmployees.deps.json
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\bin\Debug\net8.0\FilterEmployees.runtimeconfig.json
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\bin\Debug\net8.0\FilterEmployees.dll
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\bin\Debug\net8.0\FilterEmployees.pdb
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\FilterEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\FilterEmployees.AssemblyInfoInputs.cache
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\FilterEmployees.AssemblyInfo.cs
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\FilterEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\FilterEmployees.dll
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\refint\FilterEmployees.dll
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\FilterEmployees.pdb
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\FilterEmployees.genruntimeconfig.cache
+C:\Users\Talat\Desktop\caseStudy\FilterEmployees\FilterEmployees\obj\Debug\net8.0\ref\FilterEmployees.dll

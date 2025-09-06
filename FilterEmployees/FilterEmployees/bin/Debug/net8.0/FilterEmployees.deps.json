@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FilterEmployees/1.0.0": {
+        "runtime": {
+          "FilterEmployees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilterEmployees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

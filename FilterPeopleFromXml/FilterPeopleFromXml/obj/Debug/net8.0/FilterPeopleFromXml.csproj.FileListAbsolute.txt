@@ -1,0 +1,14 @@
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\bin\Debug\net8.0\FilterPeopleFromXml.exe
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\bin\Debug\net8.0\FilterPeopleFromXml.deps.json
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\bin\Debug\net8.0\FilterPeopleFromXml.runtimeconfig.json
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\bin\Debug\net8.0\FilterPeopleFromXml.dll
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\bin\Debug\net8.0\FilterPeopleFromXml.pdb
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\FilterPeopleFromXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\FilterPeopleFromXml.AssemblyInfoInputs.cache
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\FilterPeopleFromXml.AssemblyInfo.cs
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\FilterPeopleFromXml.csproj.CoreCompileInputs.cache
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\FilterPeopleFromXml.dll
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\refint\FilterPeopleFromXml.dll
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\FilterPeopleFromXml.pdb
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\FilterPeopleFromXml.genruntimeconfig.cache
+C:\Users\Talat\Desktop\caseStudy\FilterPeopleFromXml\FilterPeopleFromXml\obj\Debug\net8.0\ref\FilterPeopleFromXml.dll

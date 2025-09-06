@@ -1,0 +1,14 @@
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\bin\Debug\net8.0\MaxIncreasingSubArrayAsJson.exe
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\bin\Debug\net8.0\MaxIncreasingSubArrayAsJson.deps.json
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\bin\Debug\net8.0\MaxIncreasingSubArrayAsJson.runtimeconfig.json
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\bin\Debug\net8.0\MaxIncreasingSubArrayAsJson.dll
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\bin\Debug\net8.0\MaxIncreasingSubArrayAsJson.pdb
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\MaxIncreasingSubArrayAsJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\MaxIncreasingSubArrayAsJson.AssemblyInfoInputs.cache
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\MaxIncreasingSubArrayAsJson.AssemblyInfo.cs
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\MaxIncreasingSubArrayAsJson.csproj.CoreCompileInputs.cache
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\MaxIncreasingSubArrayAsJson.dll
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\refint\MaxIncreasingSubArrayAsJson.dll
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\MaxIncreasingSubArrayAsJson.pdb
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\MaxIncreasingSubArrayAsJson.genruntimeconfig.cache
+C:\Users\Talat\Desktop\caseStudy\MaxIncreasingSubArrayAsJson\MaxIncreasingSubArrayAsJson\obj\Debug\net8.0\ref\MaxIncreasingSubArrayAsJson.dll

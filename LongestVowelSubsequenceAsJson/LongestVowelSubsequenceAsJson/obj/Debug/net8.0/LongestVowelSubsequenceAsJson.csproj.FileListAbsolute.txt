@@ -1,0 +1,14 @@
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\bin\Debug\net8.0\LongestVowelSubsequenceAsJson.exe
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\bin\Debug\net8.0\LongestVowelSubsequenceAsJson.deps.json
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\bin\Debug\net8.0\LongestVowelSubsequenceAsJson.runtimeconfig.json
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\bin\Debug\net8.0\LongestVowelSubsequenceAsJson.dll
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\bin\Debug\net8.0\LongestVowelSubsequenceAsJson.pdb
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\LongestVowelSubsequenceAsJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\LongestVowelSubsequenceAsJson.AssemblyInfoInputs.cache
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\LongestVowelSubsequenceAsJson.AssemblyInfo.cs
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\LongestVowelSubsequenceAsJson.csproj.CoreCompileInputs.cache
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\LongestVowelSubsequenceAsJson.dll
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\refint\LongestVowelSubsequenceAsJson.dll
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\LongestVowelSubsequenceAsJson.pdb
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\LongestVowelSubsequenceAsJson.genruntimeconfig.cache
+C:\Users\Talat\Desktop\caseStudy\LongestVowelSubsequenceAsJson\LongestVowelSubsequenceAsJson\obj\Debug\net8.0\ref\LongestVowelSubsequenceAsJson.dll
